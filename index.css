@@ -71,6 +71,9 @@ h1:hover{
   font-size:15px;
   font-weight:bold;
 }
-.attribution{
-  align-items:center;
+.attribution a { color: hsl(228, 45%, 44%); 
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
 }
